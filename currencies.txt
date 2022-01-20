@@ -1,0 +1,9 @@
+EUR, Euro, €
+USD, Dólar estadounidense, $
+GBP, Libra esterlina, £
+ARS, Peso argentino, $
+AUD, Dólar australiano, $
+CZK, Corona checa, Kč
+NOK, Corona noruega, kr
+JPY, Yen, ¥
+PHP, Peso Filipino, ₱
